@@ -1,10 +1,6 @@
 # About:
 This is a project based on the Original Ethminer project, we just added support for the new Nvidia RTX 30 series
 
-## Ethminer support for RTX 3080-3090 and CUDA 11.1
-
-Original repo - https://github.com/ethereum-mining
-
 # Requirements 
 -Nvidia driver and CUDA need to be installed
 
