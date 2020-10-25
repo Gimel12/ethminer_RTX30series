@@ -15,7 +15,7 @@ Original repo - https://github.com/ethereum-mining
 
 # How to use it
 
-- 1- Download this repo and navigate to the folder. 
+- 1- Download the latest release, unzip it and navigate to the folder. 
 - 2- Copy the commands below and replace the options for your wallet and pools that you want to connect. 
 
 
