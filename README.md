@@ -33,9 +33,26 @@ sudo ethminer -U -P stratum://0x385E6bA2F90E581f7BF37a103932F920eea70400@us1.eth
 - Where 0x385E6bA2F90E581f7BF37a103932F920eea70400 - is the wallet 
 - Where us1.ethermine.org:4444 - is the pool 
 
-# You Dont know about Linux, is simple !!! Watch our Video !!!
+## Best wallets, Pools to use  
 
-[YOUTUBE VIDEO]()
+You want to have a good wallet for mining since exchanges are not recommended and then once you receive the funds you can transfer to your exchange like Coinbase. 
+Using a trustworthy POOL is important, for ethereum we recommend ethermine.org 
+
+### Best wallet for mining 
+
+[EXODUS](https://www.exodus.io/)
+
+### Best POOL for Ethereum 
+
+[ETHERMINER](https://ethermine.org/)
+
+### Best Exchanges Platform 
+
+[COINBASE](https://www.coinbase.com/)
+[GEMINI](https://gemini.com/)
+[BINANCE](https://www.binance.com/en)
+
+
 
 # Reference Original repo
 Ethminer - https://github.com/ethereum-mining/ethminer
