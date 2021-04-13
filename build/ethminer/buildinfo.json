@@ -1,0 +1,10 @@
+{
+  "name": "ethminer",
+  "version": "0.19.0-16+commit.47ae149e",
+  "is_prerelease": true,
+  "commit": "47ae149ee734a82c453d23ef46fed78da109b73e",
+  "branch": "master",
+  "repo": "https://github.com/ethereum-mining/ethminer.git",
+  "system_name": "linux",
+  "system_processor": "x86_64"
+}

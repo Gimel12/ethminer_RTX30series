@@ -1,0 +1,2 @@
+/usr/bin/ar qc libpoolprotocols.a  CMakeFiles/poolprotocols.dir/PoolURI.cpp.o CMakeFiles/poolprotocols.dir/PoolManager.cpp.o CMakeFiles/poolprotocols.dir/testing/SimulateClient.cpp.o CMakeFiles/poolprotocols.dir/stratum/EthStratumClient.cpp.o CMakeFiles/poolprotocols.dir/getwork/EthGetworkClient.cpp.o
+/usr/bin/ranlib libpoolprotocols.a
